@@ -1,0 +1,123 @@
+
+@import "null.css";
+/* ================================================================ */
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+
+	max-width: 1024px;
+	margin: 0 auto;
+
+}
+/* ================================================================ */
+
+body {
+	font-family: "Chivo", sans-serif;
+}
+
+.header {
+
+}
+.header p {
+	font-size: 20px;
+	line-height: 1.5;
+	color: #f3af4f;
+	text-align: right; 
+	margin-top: 9px;
+	text-decoration: underline;
+}
+
+.title {
+	color: #08666E;
+	text-shadow: 2px 2px 10px #020100;
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.5;
+	text-align: center;
+	margin-top: 48px;
+	text-transform: uppercase;
+}
+.main {
+
+}
+.card {
+	max-width: 510px;
+	background-color: #FBCE71;
+	padding: 25px 15px;
+	margin: 40px auto -20px;
+}
+
+.card-1{
+	max-width: 430px;
+	background-color: #d8d5a0;
+	padding: 28px 50px 10px;
+}
+.card-1 img {
+	max-width: 329px;
+}
+.card-2 {
+	background-color: #f7ca67;
+	max-width: 505px;
+	max-height: 300px;
+	margin: 70px auto 0;
+	padding: 0 20px 17px;
+	overflow: auto;
+}
+
+.card-3 {
+	max-width: 429px;
+	margin-top: 41px;
+	margin: 41px 0 0 auto;
+	background-color: #d8d5a0;
+	padding: 72px 31px 48px 55px;
+}
+
+.card-4 {
+	max-width: 450px;
+	text-align: justify;
+	padding: 25px 30px 15px 10px;
+	background-color: #d3c75a;
+	margin: -25px auto 0;
+}
+.img {
+	padding: 0 68px 0; 
+}
+.text {
+
+	font-size: 18px;
+	line-height: 1.5;
+	color: #000000;
+	text-align: justify;
+}
+span {
+	color: #08666E;
+	font-size: 20px;
+	font-weight: 700;
+}
+
+.buttons {
+}
+.button {
+	display: inline-block; 
+	max-width: 230px;
+	margin: 45px 60px 0;
+	background-color: #D9C096; 
+	font-weight: 700;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 15px 35px;
+	text-shadow: 2px 2px 10px #02ff80; 
+}
+
+
+.footer {
+	color: #f7ca67;
+	margin-top: 40px;
+	min-height: 130px;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 1.5;
+	padding-top: 30px;
+	text-align: center;
+
+}
